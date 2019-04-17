@@ -6,7 +6,7 @@ Stronghold Extreme Graphics like Stronghold 1
 ------------
 Download the ["SH1 Graphics.zip"](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/SH1%20Graphics.zip) and unzip it in any Folder of your choice. Afterwards you need to replace the „…\FireFly Studios\Stronghold Crusader Extreme\gm“ files with the files from the "SH1 Graphics" folder. In Steam "… \Steam\steamapps\common\FireFly Studios\Stronghold Crusader Extreme\gm"
 
-[Castlefiles](https://github.com/Sh0wdown/UnofficialCrusaderPatch/issues/322) from the Images
+[Castlefiles](https://github.com/Monsterfisch/StrongholdsOfConquest_) from the Images
 
 If you have Questions etc feel free to leave a supportticket
 
@@ -31,7 +31,7 @@ Downloade die ["SH1 Graphics.zip"](https://github.com/Gaaammmler/Stronghold-Crus
 Unter Steam "… \Steam\steamapps\common\FireFly Studios\Stronghold Crusader Extreme\gm"
 
 
-Die [Festungsdateien](https://github.com/Sh0wdown/UnofficialCrusaderPatch/issues/322) von den Bildern
+Die [Festungsdateien](https://github.com/Monsterfisch/StrongholdsOfConquest_) von den Bildern
 
 Bei Fragen oder Fehler kannst du gerne ein Supportticket erstellen.
 
