@@ -6,6 +6,8 @@ Stronghold Extreme Graphics like Stronghold 1
 ------------
 Download the ["SH1 Graphics.zip"](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/SH1%20Graphics.zip) and unzip it in any Folder of your choice. Afterwards you need to replace the „…\FireFly Studios\Stronghold Crusader Extreme\gm“ files with the files from the "SH1 Graphics" folder. In Steam "… \Steam\steamapps\common\FireFly Studios\Stronghold Crusader Extreme\gm"
 
+[Castlesfiles](https://github.com/Sh0wdown/UnofficialCrusaderPatch/issues/322#issuecomment-483919388) from the Images
+
 If you have Questions etc feel free to leave a supportticket
 
 &nbsp;
@@ -28,6 +30,9 @@ Stronghold Extreme in Stronghold 1 Grafikstill
 Downloade die ["SH1 Graphics.zip"](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/SH1%20Graphics.zip)  und entpacke diese in einen Ordner deiner Wahl. Anschließend müssen die Dateien im „…\FireFly Studios\Stronghold Crusader Extreme\gm“ mit den entpackten Dateien aus dem "SH1 Graphics" Ordner ersetzt werden.
 Unter Steam "… \Steam\steamapps\common\FireFly Studios\Stronghold Crusader Extreme\gm"
 
+
+Die [Festungsdateien](https://github.com/Sh0wdown/UnofficialCrusaderPatch/issues/322#issuecomment-483919388) von den Bildern
+
 Bei Fragen oder Fehler kannst du gerne ein Supportticket erstellen.
 
 &nbsp;
@@ -40,3 +45,11 @@ Ein großes Dankeschön an
 -[Udwin](https://www.youtube.com/user/UdwinLP) für das Promoten des Patchers
 
 -[Monsterfisch](https://github.com/Monsterfisch)  für die Hilfe beim Ersetzen der richtigen Dateien und das nutzen seiner neuen Texturen
+
+
+![title](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/SH1Graphic1.jpg)
+
+![title](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/SH1Graphic2.jpg)
+
+![title](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/SH1Graphic3.jpg)
+
