@@ -39,4 +39,4 @@ Ein großes Dankeschön an
 
 -[Udwin](https://www.youtube.com/user/UdwinLP) für das Promoten des Patchers
 
--[Monsterfisch](https://github.com/Monsterfisch)  für die hilfe beim ersetzten der richtigen Dateien und das nutzen seiner neuen Texturen
+-[Monsterfisch](https://github.com/Monsterfisch)  für die hilfe beim ersetzen der richtigen Dateien und das nutzen seiner neuen Texturen
