@@ -47,9 +47,9 @@ Ein großes Dankeschön an
 -[Monsterfisch](https://github.com/Monsterfisch)  für die Hilfe beim Ersetzen der richtigen Dateien und das nutzen seiner neuen Texturen
 
 
-![title](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/SH1Graphic1.jpg)
+![title](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/Images/SH1Graphic1.jpg)
 
-![title](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/SH1Graphic2.jpg)
+![title](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/Images/SH1Graphic2.jpg)
 
-![title](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/SH1Graphic3.jpg)
+![title](https://github.com/Gaaammmler/Stronghold-Crusader-Sh1-Graphics/blob/master/Images/SH1Graphic3.jpg)
 
